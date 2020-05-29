@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_BELLFX" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\fx_long2_main.wav"
+          Root="71" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-1" Pan="0" Normalized="1" Pitch="0" SampleStart="7099"
+          SampleEnd="1099938" SampleStartMod="318052" LoopStart="394049"
+          LoopEnd="776672" LoopXFade="18000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="1101824" SampleRate="44100" NormalizedPeak="2.0716319"/>
+</samplemap>

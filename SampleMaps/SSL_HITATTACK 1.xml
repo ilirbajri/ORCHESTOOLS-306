@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_HITATTACK1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\05Timpani5_Hit_v3_rr4_Sum.wav"
+          Root="46" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-3" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="273008" SampleStartMod="74266" LoopStart="0" LoopEnd="273008"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="0" MonolithLength="274432"
+          SampleRate="44100" NormalizedPeak="12.272285"/>
+</samplemap>

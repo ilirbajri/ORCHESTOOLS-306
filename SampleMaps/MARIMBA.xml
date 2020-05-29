@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="MARIMBA1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_C6_med_02.wav"
+          Root="96" HiKey="127" LoKey="83" LoVel="0" HiVel="50" RRGroup="1"
+          Volume="-10" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="77173" SampleStartMod="8000" LoopStart="0" LoopEnd="77173"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="50"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="77824"
+          SampleRate="44100" NormalizedPeak="93.088066"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_F3_med_01.wav"
+          Root="65" HiKey="68" LoKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="279"
+          SampleEnd="230480" SampleStartMod="8000" LoopStart="0" LoopEnd="230480"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="77824" MonolithLength="233472"
+          SampleRate="44100" NormalizedPeak="54.794315"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_G2_med_01.wav"
+          Root="55" HiKey="56" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="250"
+          SampleEnd="252200" SampleStartMod="8000" LoopStart="0" LoopEnd="252200"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="311296" MonolithLength="253952"
+          SampleRate="44100" NormalizedPeak="83.80307"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_B2_med_02.wav"
+          Root="59" HiKey="61" LoKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="236"
+          SampleEnd="238176" SampleStartMod="8000" LoopStart="0" LoopEnd="238176"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="565248" MonolithLength="241664"
+          SampleRate="44100" NormalizedPeak="57.790119"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_B4_med_02.wav"
+          Root="83" HiKey="127" LoKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-8" Pan="-28" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="97901" SampleStartMod="8000" LoopStart="0" LoopEnd="97901"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="806912" MonolithLength="98304"
+          SampleRate="44100" NormalizedPeak="34.710804"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_C2_med_01.wav"
+          Root="48" HiKey="56" LoKey="0" LoVel="60" HiVel="127" RRGroup="1"
+          Volume="-10" Pan="0" Normalized="1" Pitch="0" SampleStart="131"
+          SampleEnd="297501" SampleStartMod="8000" LoopStart="0" LoopEnd="297501"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="60" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="905216" MonolithLength="299008"
+          SampleRate="44100" NormalizedPeak="63.256756"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Marimba_hit_Outrigger_C4_med_01.wav"
+          Root="72" HiKey="82" LoKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="144"
+          SampleEnd="109200" SampleStartMod="8000" LoopStart="0" LoopEnd="109200"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="1204224" MonolithLength="110592"
+          SampleRate="44100" NormalizedPeak="30.06147"/>
+</samplemap>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="EMPTY" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}empty.wav" Duplicate="1" MonolithOffset="0"
+          MonolithLength="45056" SampleRate="44100"/>
+</samplemap>

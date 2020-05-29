@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SD_PIPES" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_susvib_E5_v1_2.wav"
+          Root="88" HiKey="127" LoKey="0" LoVel="60" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="1460"
+          SampleEnd="309697" SampleStartMod="66335" LoopStart="99990" LoopEnd="198423"
+          LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="47" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="311296"
+          SampleRate="44100" NormalizedPeak="2.7877319"/>
+  <sample ID="10" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_susvib_A5_v1_1.wav"
+          Root="93" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="843"
+          SampleEnd="242837" SampleStartMod="46978" LoopStart="66200" LoopEnd="188533"
+          LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="47"
+          SampleState="0" Duplicate="0" MonolithOffset="311296" MonolithLength="245760"
+          SampleRate="44100" NormalizedPeak="1.7587354"/>
+</samplemap>

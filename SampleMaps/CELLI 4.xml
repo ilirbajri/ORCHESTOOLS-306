@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLI4" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_C1_v1_1.wav"
+          Root="36" HiKey="34" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="391222"
+          SampleStartMod="135294" LoopStart="159110" LoopEnd="235421" LoopXFade="20000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="393216" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="5.8933449"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_D2_v1_1.wav"
+          Root="50" HiKey="53" LoKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="425152"
+          SampleStartMod="126865" LoopStart="176761" LoopEnd="302305" LoopXFade="20000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="393216" MonolithLength="425984"
+          SampleRate="44100" Duplicate="1" NormalizedPeak="7.8352466"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_G1_v1_1.wav"
+          Root="43" HiKey="46" LoKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="360276"
+          SampleStartMod="100880" LoopStart="144922" LoopEnd="260117" LoopXFade="20000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="1232896" MonolithLength="360448"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="8.2765846"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_B3_v1_1.wav"
+          Root="71" HiKey="127" LoKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="281673"
+          SampleStartMod="87649" LoopStart="136213" LoopEnd="222932" LoopXFade="20000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="1593344" MonolithLength="282624"
+          SampleRate="44100" Duplicate="1" NormalizedPeak="14.9621"/>
+</samplemap>

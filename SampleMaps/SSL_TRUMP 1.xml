@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_TRUMP1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_D4_v2_rr1.wav"
+          Root="74" HiKey="126" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-12" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="497478" SampleStartMod="186104" LoopStart="223453"
+          LoopEnd="405607" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="499712" SampleRate="44100" NormalizedPeak="6.5549111"/>
+</samplemap>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_TRMBENS1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\7TbnEns_sus_F2_v3_rr1_Sum.wav"
+          Root="53" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="248313" SampleStartMod="75343" LoopStart="90476" LoopEnd="118488"
+          LoopXFade="9000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="249856"
+          SampleRate="44100" NormalizedPeak="3.5869734"/>
+</samplemap>

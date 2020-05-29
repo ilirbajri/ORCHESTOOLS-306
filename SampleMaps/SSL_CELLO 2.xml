@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_CELLO2" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_F2_v1_1.wav"
+          Root="65" HiKey="125" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="4227"
+          SampleEnd="364328" SampleStartMod="126441" LoopStart="157843"
+          LoopEnd="248510" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="0" MonolithLength="364544"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="12.35558"/>
+</samplemap>

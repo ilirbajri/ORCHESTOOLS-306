@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TRUMPET1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_A#3_v2_rr1.wav"
+          Root="70" HiKey="72" LoKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="550249" SampleStartMod="178144" LoopStart="215910"
+          LoopEnd="444485" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="552960" SampleRate="44100" NormalizedPeak="9.6319809"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_C3_v2_rr2.wav"
+          Root="60" HiKey="67" LoKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="555930" SampleStartMod="209613" LoopStart="243353"
+          LoopEnd="477010" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="552960"
+          MonolithLength="557056" SampleRate="44100" NormalizedPeak="16.213755"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_C5_v1_rr2.wav"
+          Root="84" HiKey="127" LoKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="1275"
+          SampleEnd="353913" SampleStartMod="121795" LoopStart="151082"
+          LoopEnd="285442" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="1110016"
+          MonolithLength="356352" SampleRate="44100" NormalizedPeak="5.890347"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_D4_v2_rr1.wav"
+          Root="74" HiKey="76" LoKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="497478" SampleStartMod="186104" LoopStart="223453"
+          LoopEnd="405607" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="1466368"
+          MonolithLength="499712" SampleRate="44100" NormalizedPeak="6.5549111"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_F2_v2_rr2.wav"
+          Root="53" HiKey="59" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="482612" SampleStartMod="168791" LoopStart="203670"
+          LoopEnd="378935" LoopXFade="18000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="1966080"
+          MonolithLength="483328" SampleRate="44100" NormalizedPeak="13.704726"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_SHTrumpet_sus_F4_v2_rr2.wav"
+          Root="77" HiKey="83" LoKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="518211" SampleStartMod="176302" LoopStart="313030"
+          LoopEnd="434582" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="2449408"
+          MonolithLength="520192" SampleRate="44100" NormalizedPeak="8.3209753"/>
+</samplemap>

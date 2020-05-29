@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="OBOE2STACC" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\KHOboe_stac_Ab4_ff2.wav"
+          Root="80" HiKey="127" LoKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-3.9999997615814208984" Pan="0" Normalized="0" Pitch="8"
+          SampleStart="0" SampleEnd="27161" SampleStartMod="12082" LoopStart="0"
+          LoopEnd="27161" LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\KHOboe_stac_Bb3_ff2.wav"
+          Root="70" HiKey="71" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-3.9999997615814208984" Pan="0" Normalized="0" Pitch="4"
+          SampleStart="0" SampleEnd="19328" SampleStartMod="10741" LoopStart="0"
+          LoopEnd="19328" LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="28672"
+          MonolithLength="20480" SampleRate="44100"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\KHOboe_stac_D4_ff2.wav"
+          Root="74" HiKey="91" LoKey="24" LoVel="80" HiVel="127" RRGroup="1"
+          Volume="-5" Pan="0" Normalized="0" Pitch="-6" SampleStart="0"
+          SampleEnd="16556" SampleStartMod="9052" LoopStart="0" LoopEnd="16556"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="47" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="49152" MonolithLength="20480"
+          SampleRate="44100"/>
+</samplemap>

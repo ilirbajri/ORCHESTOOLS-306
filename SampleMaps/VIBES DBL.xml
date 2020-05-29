@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIBES2DBL" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_A2_v2_rr2_Main.wav"
+          Root="57" HiKey="60" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-11" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="611531" SampleStartMod="50000" LoopStart="0" LoopEnd="611531"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="7.000213623046875" MonolithOffset="0"
+          MonolithLength="614400" SampleRate="44100" Duplicate="1"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_A4_v2_rr3_Main.wav"
+          Root="81" HiKey="84" LoKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-9" Pan="-52" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="587727" SampleStartMod="50000" LoopStart="0" LoopEnd="587727"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="4.1806583404541015625" MonolithOffset="614400"
+          MonolithLength="589824" SampleRate="44100" Duplicate="1"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_B3_v2_rr2_Main.wav"
+          Root="71" HiKey="74" LoKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-9" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="736244" SampleStartMod="50000" LoopStart="0" LoopEnd="736244"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="7.148342132568359375" MonolithOffset="1204224"
+          MonolithLength="737280" SampleRate="44100" Duplicate="1"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_C3_v2_rr2_Main.wav"
+          Root="60" HiKey="64" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-11" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="537974" SampleStartMod="50000" LoopStart="0" LoopEnd="537974"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="10.850331306457519531" MonolithOffset="1941504"
+          MonolithLength="540672" SampleRate="44100" Duplicate="1"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_C5_v2_rr2_Main.wav"
+          Root="84" HiKey="127" LoKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-12" Pan="70" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="298494" SampleStartMod="50000" LoopStart="0" LoopEnd="298494"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="2.5126907825469970703" MonolithOffset="2482176"
+          MonolithLength="299008" SampleRate="44100" Duplicate="1"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_D4_v2_rr2_Main.wav"
+          Root="74" HiKey="79" LoKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-8" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="672807" SampleStartMod="50000" LoopStart="0" LoopEnd="672807"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="4.0147023200988769531" MonolithOffset="2781184"
+          MonolithLength="675840" SampleRate="44100" Duplicate="1"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_E3_v2_rr2_Main.wav"
+          Root="64" HiKey="68" LoKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-10" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="693660" SampleStartMod="50000" LoopStart="0" LoopEnd="693660"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="7.4388194084167480469" MonolithOffset="3457024"
+          MonolithLength="696320" SampleRate="44100" Duplicate="1"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_E5_v2_rr2_Main.wav"
+          Root="88" HiKey="127" LoKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-11" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="377014" SampleStartMod="50000" LoopStart="0" LoopEnd="377014"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" NormalizedPeak="3.496372222900390625" MonolithOffset="4153344"
+          MonolithLength="380928" SampleRate="44100" Duplicate="1"/>
+</samplemap>

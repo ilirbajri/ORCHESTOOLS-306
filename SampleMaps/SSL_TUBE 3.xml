@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_TUBB3" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\TB_hit_G4_v2_2.wav"
+          Root="79" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="2238"
+          SampleEnd="431520" SampleStartMod="220000" LoopStart="0" LoopEnd="431520"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="434176"
+          SampleRate="44100" NormalizedPeak="21.873833"/>
+</samplemap>

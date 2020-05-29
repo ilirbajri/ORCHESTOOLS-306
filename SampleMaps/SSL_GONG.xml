@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_GONG" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\gong_2_f.wav"
+          Root="51" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-5" Pan="0" Normalized="1" Pitch="0" SampleStart="973"
+          SampleEnd="1033348" SampleStartMod="383868" LoopStart="0" LoopEnd="1033348"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="1036288"
+          SampleRate="44100" NormalizedPeak="9.7318087"/>
+</samplemap>

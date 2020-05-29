@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_EUPHON1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\Euph1_vib-solo_A#2_v1_1.wav"
+          Root="82" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="6307"
+          SampleEnd="264236" SampleStartMod="93533" LoopStart="110475"
+          LoopEnd="159538" LoopXFade="15000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="266240" SampleRate="44100" NormalizedPeak="7.5101991"/>
+</samplemap>

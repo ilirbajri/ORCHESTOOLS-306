@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_BRASSDBL" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\7TbnEns_Sus_Bb2_fff.wav"
+          Root="46" HiKey="127" LoKey="0" LoVel="20" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="0" Pitch="0" SampleStart="0"
+          SampleEnd="185970" SampleStartMod="33749" LoopStart="45161" LoopEnd="89837"
+          LoopXFade="9000" LoopEnabled="1" LowerVelocityXFade="97" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="188416" SampleRate="44100"
+          Duplicate="0"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\7TbnEns_Sus_Bb3_fff.wav"
+          Root="58" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="0" Pitch="0" SampleStart="0" SampleEnd="208260"
+          SampleStartMod="49532" LoopStart="67568" LoopEnd="116831" LoopXFade="5000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="188416" MonolithLength="208896"
+          SampleRate="44100" Duplicate="0"/>
+</samplemap>

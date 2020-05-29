@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_BASSY1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A2_mf1.wav"
+          Root="45" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="5215"
+          SampleEnd="501906" SampleStartMod="103765" LoopStart="0" LoopEnd="501906"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="503808" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="26.683226"/>
+</samplemap>

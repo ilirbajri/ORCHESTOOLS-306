@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_HARMPAD" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_B4.wav"
+          Root="83" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="26011"
+          SampleEnd="358175" SampleStartMod="96150" LoopStart="160715"
+          LoopEnd="293829" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="360448" SampleRate="44100" NormalizedPeak="16.540636"/>
+</samplemap>

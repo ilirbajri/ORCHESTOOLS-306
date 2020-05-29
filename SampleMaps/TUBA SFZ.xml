@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUBA1SFZ" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_sfz_A#0_rr2_Mid.wav"
+          Root="34" HiKey="38" LoKey="24" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="2322"
+          SampleEnd="222257" SampleStartMod="19160" LoopStart="74551" LoopEnd="176465"
+          LoopXFade="9000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="225280"
+          SampleRate="44100" NormalizedPeak="2.3861783"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_sfz_D#1_rr1_Mid.wav"
+          Root="39" HiKey="55" LoKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="2364"
+          SampleEnd="261063" SampleStartMod="23309" LoopStart="50672" LoopEnd="206620"
+          LoopXFade="10000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="225280" MonolithLength="262144"
+          SampleRate="44100" NormalizedPeak="3.6266742"/>
+</samplemap>

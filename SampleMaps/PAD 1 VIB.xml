@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PAD1VIB" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\LLVln_ArcoVib_A4_mf.wav"
+          Root="81" HiKey="74" LoKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="845"
+          SampleEnd="615725" SampleStartMod="120000" LoopStart="224554"
+          LoopEnd="484851" LoopXFade="25000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="0"
+          MonolithLength="618496" SampleRate="44100" NormalizedPeak="5.387537"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\LLVln_ArcoVib_A5_mf.wav"
+          Root="93" HiKey="127" LoKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="1115"
+          SampleEnd="632159" SampleStartMod="80000" LoopStart="156327"
+          LoopEnd="473767" LoopXFade="15000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="618496"
+          MonolithLength="634880" SampleRate="44100" NormalizedPeak="3.8690517"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\LLVln_ArcoVib_A3_mf.wav"
+          Root="69" HiKey="57" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="1390"
+          SampleEnd="727318" SampleStartMod="145000" LoopStart="238144"
+          LoopEnd="550479" LoopXFade="25000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" Duplicate="0" MonolithOffset="1253376"
+          MonolithLength="729088" SampleRate="44100" NormalizedPeak="8.1449165"/>
+</samplemap>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUBA1STACC" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_A#0_rr3_Mid.wav"
+          Root="34" HiKey="36" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="1277"
+          SampleEnd="41900" SampleStartMod="11365" LoopStart="0" LoopEnd="41900"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="45056"
+          SampleRate="44100" NormalizedPeak="12.126943"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_A#1_rr6_Mid.wav"
+          Root="46" HiKey="49" LoKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="950"
+          SampleEnd="48155" SampleStartMod="8323" LoopStart="0" LoopEnd="48155"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="45056" MonolithLength="49152"
+          SampleRate="44100" NormalizedPeak="6.9187078"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_A#2_rr6_Mid.wav"
+          Root="58" HiKey="61" LoKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-5" Pan="0" Normalized="1" Pitch="0" SampleStart="1995"
+          SampleEnd="29977" SampleStartMod="10878" LoopStart="0" LoopEnd="35722"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="94208" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="10.017426"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_D2_rr5_Mid.wav"
+          Root="50" HiKey="54" LoKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-5" Pan="0" Normalized="1" Pitch="0" SampleStart="855"
+          SampleEnd="33135" SampleStartMod="9055" LoopStart="0" LoopEnd="33135"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="131072" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="9.2249441"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_D3_rr2_Mid.wav"
+          Root="62" HiKey="126" LoKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-9" Pan="0" Normalized="1" Pitch="0" SampleStart="1520"
+          SampleEnd="47491" SampleStartMod="6650" LoopStart="0" LoopEnd="47491"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="167936" MonolithLength="49152"
+          SampleRate="44100" NormalizedPeak="13.590627"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_F1_rr4_Mid.wav"
+          Root="41" HiKey="43" LoKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="1372"
+          SampleEnd="50054" SampleStartMod="10191" LoopStart="0" LoopEnd="50054"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="217088" MonolithLength="53248"
+          SampleRate="44100" NormalizedPeak="17.66415"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Tuba3_stac_F2_rr4_Mid.wav"
+          Root="53" HiKey="57" LoKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="971"
+          SampleEnd="26915" SampleStartMod="8008" LoopStart="0" LoopEnd="31788"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="270336" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="14.968935"/>
+</samplemap>

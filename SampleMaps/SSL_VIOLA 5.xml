@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_VIOLA5" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="C:\1 audio\5 samples\01 for stank\256OrchestralSamples\ViolaEns_susvib_A3_v1_1.wav"
+          Duplicate="0" MonolithOffset="0" MonolithLength="417792" SampleRate="44100"
+          Volume="13" SampleStartMod="50000" LoopEnabled="1" LoopStart="83978"
+          LoopEnd="339062" LoopXFade="25000"/>
+</samplemap>

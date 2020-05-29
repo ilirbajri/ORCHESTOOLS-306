@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HORN1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\SGHorn_sus_A#2_v2_rr1_Sum.wav"
+          Root="58" HiKey="61" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-13" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="314927" SampleStartMod="3000" LoopStart="77544" LoopEnd="232238"
+          LoopXFade="12000" LoopEnabled="1" LowerVelocityXFade="100" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="315392"
+          SampleRate="44100" NormalizedPeak="11.954396"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\SGHorn_sus_A#3_v2_rr1_Sum.wav"
+          Root="70" HiKey="127" LoKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-10" Pan="0" Normalized="1" Pitch="0" SampleStart="1165"
+          SampleEnd="185547" SampleStartMod="3000" LoopStart="33100" LoopEnd="105360"
+          LoopXFade="12000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="315392" MonolithLength="188416"
+          SampleRate="44100" NormalizedPeak="16.109636"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\SGHorn_sus_D2_v2_rr2_Sum.wav"
+          Root="50" HiKey="48" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-13" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="339242" SampleStartMod="3000" LoopStart="95038" LoopEnd="254857"
+          LoopXFade="12000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="503808" MonolithLength="339968"
+          SampleRate="44100" NormalizedPeak="28.102057"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\SGHorn_sus_D3_v2_rr3_Sum.wav"
+          Root="62" HiKey="66" LoKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-13" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="326589" SampleStartMod="3000" LoopStart="66466" LoopEnd="240018"
+          LoopXFade="11000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="843776" MonolithLength="327680"
+          SampleRate="44100" NormalizedPeak="10.485439"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\SGHorn_sus_F3_v2_rr1_Sum.wav"
+          Root="65" HiKey="127" LoKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-13" Pan="0" Normalized="1" Pitch="0" SampleStart="299"
+          SampleEnd="238522" SampleStartMod="3000" LoopStart="74912" LoopEnd="170501"
+          LoopXFade="10000" LoopEnabled="1" LowerVelocityXFade="100" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="1171456" MonolithLength="241664"
+          SampleRate="44100" NormalizedPeak="13.495469"/>
+</samplemap>

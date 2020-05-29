@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_BELLY1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_D4_v2_rr2_Main.wav"
+          Root="74" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="-15" Normalized="0" Pitch="0" SampleStart="0"
+          SampleEnd="672807" SampleStartMod="80125" LoopStart="145444"
+          LoopEnd="229924" LoopXFade="50000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="0" MonolithLength="675840"
+          SampleRate="44100" Duplicate="0"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\triangle2_hit_mp.wav"
+          Root="84" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-11" Pan="-28" Normalized="1" Pitch="0" SampleStart="2475"
+          SampleEnd="273065" SampleStartMod="75681" LoopStart="104629"
+          LoopEnd="226410" LoopXFade="3000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" NormalizedPeak="25.41817474365234375"
+          MonolithOffset="675840" MonolithLength="274432" SampleRate="44100"
+          Duplicate="0"/>
+</samplemap>

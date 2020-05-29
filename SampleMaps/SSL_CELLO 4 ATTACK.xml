@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_CELLO4ATTACK" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\50OrchestralSamples\CelloEns_spic_C3_v2_4.wav"
+          Root="72" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="1328"
+          SampleEnd="111502" SampleStartMod="10199" LoopStart="0" LoopEnd="111502"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="114688"
+          SampleRate="44100" NormalizedPeak="2.5908911"/>
+</samplemap>

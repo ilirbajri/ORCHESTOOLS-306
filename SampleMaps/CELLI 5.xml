@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLI5" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_A2_v1_3.wav"
+          Root="57" HiKey="127" LoKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="163"
+          SampleEnd="126577" SampleStartMod="16636" LoopStart="0" LoopEnd="126577"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="90"
+          SampleState="0" MonolithOffset="0" MonolithLength="126976" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="8.007576"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_B1_v1_3.wav"
+          Root="47" HiKey="59" LoKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="155520"
+          SampleStartMod="17591" LoopStart="0" LoopEnd="155520" LoopXFade="0"
+          LoopEnabled="0" LowerVelocityXFade="90" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="126976" MonolithLength="155648"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="10.475384"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_C1_v1_3.wav"
+          Root="36" HiKey="38" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1748"
+          SampleEnd="159508" SampleStartMod="15850" LoopStart="0" LoopEnd="159508"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="90"
+          SampleState="0" MonolithOffset="282624" MonolithLength="159744"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="13.075419"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_E1_v1_2.wav"
+          Root="40" HiKey="40" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="876"
+          SampleEnd="114708" SampleStartMod="14388" LoopStart="0" LoopEnd="114708"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="90" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="442368" MonolithLength="118784"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="21.430347"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_F2_v1_1.wav"
+          Root="53" HiKey="127" LoKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="110426"
+          SampleStartMod="13611" LoopStart="0" LoopEnd="110426" LoopXFade="0"
+          LoopEnabled="0" LowerVelocityXFade="90" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="561152" MonolithLength="110592"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="12.636714"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_pizzT_G1_v1_4.wav"
+          Root="43" HiKey="51" LoKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1630"
+          SampleEnd="92283" SampleStartMod="10319" LoopStart="0" LoopEnd="92283"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="90"
+          SampleState="0" MonolithOffset="671744" MonolithLength="94208"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="15.929509"/>
+</samplemap>

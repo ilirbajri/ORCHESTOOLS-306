@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLI1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_C1_v1_1.wav"
+          Root="36" HiKey="39" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="3931"
+          SampleEnd="391222" SampleStartMod="112108" LoopStart="145429"
+          LoopEnd="235421" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="0" MonolithLength="393216"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="5.8933449"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_C3_v1_1.wav"
+          Root="60" HiKey="63" LoKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2.0000002384185791016" Pan="0" Normalized="1" Pitch="0"
+          SampleStart="2558" SampleEnd="407355" SampleStartMod="90340"
+          LoopStart="115656" LoopEnd="247688" LoopXFade="20000" LoopEnabled="1"
+          LowerVelocityXFade="0" UpperVelocityXFade="0" SampleState="0"
+          MonolithOffset="393216" MonolithLength="409600" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="10.764455"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_D2_v1_1.wav"
+          Root="50" HiKey="54" LoKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="1" Pan="0" Normalized="1" Pitch="0" SampleStart="0" SampleEnd="425152"
+          SampleStartMod="113632" LoopStart="138334" LoopEnd="302305" LoopXFade="20000"
+          LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="802816" MonolithLength="425984"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="7.8352466"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_E1_v1_1.wav"
+          Root="40" HiKey="43" LoKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="2584"
+          SampleEnd="411384" SampleStartMod="121631" LoopStart="147672"
+          LoopEnd="286815" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="1228800"
+          MonolithLength="413696" SampleRate="44100" Duplicate="0" NormalizedPeak="15.448845"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_F2_v1_1.wav"
+          Root="53" HiKey="56" LoKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2.0000002384185791016" Pan="0" Normalized="1" Pitch="0"
+          SampleStart="8701" SampleEnd="364328" SampleStartMod="109529"
+          LoopStart="137643" LoopEnd="263176" LoopXFade="20000" LoopEnabled="1"
+          LowerVelocityXFade="0" UpperVelocityXFade="0" SampleState="0"
+          MonolithOffset="1642496" MonolithLength="364544" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="12.35558"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_G1_v1_1.wav"
+          Root="43" HiKey="46" LoKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1810"
+          SampleEnd="360276" SampleStartMod="114313" LoopStart="140277"
+          LoopEnd="259188" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="2007040"
+          MonolithLength="360448" SampleRate="44100" Duplicate="0" NormalizedPeak="8.2765846"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_B1_v1_1.wav"
+          Root="47" HiKey="49" LoKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="6457"
+          SampleEnd="395408" SampleStartMod="114374" LoopStart="145049"
+          LoopEnd="318412" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="2367488"
+          MonolithLength="397312" SampleRate="44100" Duplicate="0" NormalizedPeak="9.9203749"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\CelloEns_susvib_B3_v1_1.wav"
+          Root="71" HiKey="127" LoKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1061"
+          SampleEnd="281673" SampleStartMod="65588" LoopStart="95896" LoopEnd="222932"
+          LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="2764800" MonolithLength="282624"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="14.9621"/>
+</samplemap>

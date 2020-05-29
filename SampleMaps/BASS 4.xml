@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASSUP2" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_JBCtbss_pizz_G#2_v2_rr1.wav"
+          Root="68" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="0" Normalized="1" Pitch="0" SampleStart="994"
+          SampleEnd="46721" SampleStartMod="9000" LoopStart="0" LoopEnd="46721"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="49152" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="11.252404"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Sum_JBCtbss_pizz_A0_v2_rr1.wav"
+          Root="45" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1247"
+          SampleEnd="251277" SampleStartMod="34348" LoopStart="0" LoopEnd="251277"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="49152" MonolithLength="253952"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="7.7960978"/>
+</samplemap>

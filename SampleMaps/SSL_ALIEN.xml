@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_ALIEN" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\alien1_ff.wav"
+          Root="75" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-4" Pan="21" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="142197" SampleStartMod="38241" LoopStart="53575" LoopEnd="108258"
+          LoopXFade="9000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="143360"
+          SampleRate="44100" NormalizedPeak="5.2713966"/>
+</samplemap>

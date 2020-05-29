@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_VIBES1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\Vibes_soft_D4_v2_rr2_Main.wav"
+          Root="74" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-1" Pan="-15" Normalized="0" Pitch="0" SampleStart="0"
+          SampleEnd="672807" SampleStartMod="58584" LoopStart="74380" LoopEnd="169046"
+          LoopXFade="50000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="675840"
+          SampleRate="44100"/>
+</samplemap>

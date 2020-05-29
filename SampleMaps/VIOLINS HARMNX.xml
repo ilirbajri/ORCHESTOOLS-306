@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLINSHARM" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_A5.wav"
+          Root="93" HiKey="94" LoKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="22834"
+          SampleEnd="466058" SampleStartMod="178144" LoopStart="237684"
+          LoopEnd="421560" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="0" MonolithLength="466944"
+          SampleRate="44100" Duplicate="0" NormalizedPeak="19.492565"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_B4.wav"
+          Root="83" HiKey="85" LoKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="358175" SampleStartMod="128665" LoopStart="157928"
+          LoopEnd="293829" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="466944"
+          MonolithLength="360448" SampleRate="44100" Duplicate="0" NormalizedPeak="16.540636"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_C6.wav"
+          Root="96" HiKey="127" LoKey="94" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="364261" SampleStartMod="136234" LoopStart="162541"
+          LoopEnd="306292" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="827392"
+          MonolithLength="364544" SampleRate="44100" Duplicate="0" NormalizedPeak="15.507336"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_D5.wav"
+          Root="86" HiKey="88" LoKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="441453" SampleStartMod="150496" LoopStart="185270"
+          LoopEnd="368801" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="1191936"
+          MonolithLength="442368" SampleRate="44100" Duplicate="0" NormalizedPeak="19.620958"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_F#5.wav"
+          Root="90" HiKey="91" LoKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="365359" SampleStartMod="132539" LoopStart="159617"
+          LoopEnd="300640" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="1634304"
+          MonolithLength="368640" SampleRate="44100" Duplicate="0" NormalizedPeak="21.628382"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\VlnEns_Harm_G4.wav"
+          Root="79" HiKey="80" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-7" Pan="0" Normalized="1" Pitch="0" SampleStart="0"
+          SampleEnd="460289" SampleStartMod="173568" LoopStart="208162"
+          LoopEnd="380490" LoopXFade="20000" LoopEnabled="1" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" SampleState="0" MonolithOffset="2002944"
+          MonolithLength="462848" SampleRate="44100" Duplicate="0" NormalizedPeak="16.367134"/>
+</samplemap>

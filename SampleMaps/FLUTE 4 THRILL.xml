@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="FLUTE4THRILL" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_A3_v1_1.wav"
+          Root="69" HiKey="70" LoKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="2463"
+          SampleEnd="245167" SampleStartMod="38707" LoopStart="49279" LoopEnd="186031"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="245760"
+          SampleRate="44100" NormalizedPeak="11.397218"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_A4_v1_1.wav"
+          Root="81" HiKey="82" LoKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="3929"
+          SampleEnd="240634" SampleStartMod="40915" LoopStart="58949" LoopEnd="167778"
+          LoopXFade="3000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="245760" MonolithLength="241664"
+          SampleRate="44100" NormalizedPeak="6.2520509"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_C4_v1_1.wav"
+          Root="72" HiKey="73" LoKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1685"
+          SampleEnd="268365" SampleStartMod="31410" LoopStart="46188" LoopEnd="202622"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="487424" MonolithLength="270336"
+          SampleRate="44100" NormalizedPeak="10.799934"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_C5_v1_1.wav"
+          Root="84" HiKey="127" LoKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1647"
+          SampleEnd="218575" SampleStartMod="30276" LoopStart="47229" LoopEnd="156242"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="757760" MonolithLength="221184"
+          SampleRate="44100" NormalizedPeak="4.2466307"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_E3_v1_1.wav"
+          Root="64" HiKey="65" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="3773"
+          SampleEnd="250330" SampleStartMod="45315" LoopStart="56607" LoopEnd="202842"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="978944" MonolithLength="253952"
+          SampleRate="44100" NormalizedPeak="14.641197"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_E4_v1_1.wav"
+          Root="76" HiKey="77" LoKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="3175"
+          SampleEnd="315928" SampleStartMod="50347" LoopStart="70647" LoopEnd="214719"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="1232896" MonolithLength="319488"
+          SampleRate="44100" NormalizedPeak="9.5558472"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_G3_v1_1.wav"
+          Root="67" HiKey="67" LoKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="3275"
+          SampleEnd="260699" SampleStartMod="49424" LoopStart="65502" LoopEnd="212882"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="1552384" MonolithLength="262144"
+          SampleRate="44100" NormalizedPeak="17.569437"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\LDFlute_trillW_G4_v1_1.wav"
+          Root="79" HiKey="79" LoKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1941"
+          SampleEnd="220774" SampleStartMod="41953" LoopStart="64900" LoopEnd="155595"
+          LoopXFade="5000" LoopEnabled="1" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="1814528" MonolithLength="221184"
+          SampleRate="44100" NormalizedPeak="7.4998856"/>
+</samplemap>

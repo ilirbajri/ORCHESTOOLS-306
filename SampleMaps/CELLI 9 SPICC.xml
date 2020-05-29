@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLI8SPICC" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="36" LoKey="0" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}50OrchestralSamples/CelloEns_spic_C1_v2_5.wav"
+          Duplicate="0" MonolithOffset="0" MonolithLength="151552" SampleRate="44100"
+          UpperVelocityXFade="0" LowerVelocityXFade="100" SampleStartMod="3500"/>
+  <sample Root="60" LoKey="0" HiKey="127" LoVel="0" HiVel="128" RRGroup="1"
+          FileName="{PROJECT_FOLDER}50OrchestralSamples/CelloEns_spic_C3_v2_4.wav"
+          Duplicate="0" MonolithOffset="151552" MonolithLength="114688"
+          SampleRate="44100" LowerVelocityXFade="0" SampleStart="1873"
+          UpperVelocityXFade="10" SampleStartMod="3500"/>
+</samplemap>

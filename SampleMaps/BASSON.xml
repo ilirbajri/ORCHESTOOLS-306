@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASSON1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_A#0_v2_2.wav"
+          Root="34" HiKey="35" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="437"
+          SampleEnd="31660" SampleStartMod="8000" LoopStart="0" LoopEnd="31660"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="0" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="3.6870708"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_A1_v2_1.wav"
+          Root="45" HiKey="46" LoKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="633"
+          SampleEnd="30092" SampleStartMod="10937" LoopStart="0" LoopEnd="30092"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="32768" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="2.6384573"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_A2_v2_1.wav"
+          Root="57" HiKey="59" LoKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="997"
+          SampleEnd="33221" SampleStartMod="11591" LoopStart="0" LoopEnd="33221"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="65536" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="3.086858"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_C2_v2_1.wav"
+          Root="48" HiKey="49" LoKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="886"
+          SampleEnd="31370" SampleStartMod="12584" LoopStart="0" LoopEnd="31370"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="102400" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="3.3510942"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_C3_v2_1.wav"
+          Root="60" HiKey="127" LoKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1224"
+          SampleEnd="31732" SampleStartMod="10515" LoopStart="0" LoopEnd="31732"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="135168" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="2.2682405"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_D#2_v2_2.wav"
+          Root="51" HiKey="51" LoKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="558"
+          SampleEnd="34684" SampleStartMod="8848" LoopStart="0" LoopEnd="34684"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="167936" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="2.664417"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_D1_v2_2.wav"
+          Root="38" HiKey="40" LoKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="261"
+          SampleEnd="32035" SampleStartMod="8000" LoopStart="0" LoopEnd="32035"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="204800" MonolithLength="32768"
+          SampleRate="44100" NormalizedPeak="3.6854122"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_E2_v2_1.wav"
+          Root="52" HiKey="55" LoKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1425"
+          SampleEnd="34482" SampleStartMod="10688" LoopStart="0" LoopEnd="34482"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="237568" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="3.1698751"/>
+  <sample ID="8" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\PSBassoon_F1_v2_1.wav"
+          Root="41" HiKey="43" LoKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1140"
+          SampleEnd="32894" SampleStartMod="12874" LoopStart="0" LoopEnd="32894"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="0" MonolithOffset="274432" MonolithLength="36864"
+          SampleRate="44100" NormalizedPeak="2.8169703"/>
+</samplemap>

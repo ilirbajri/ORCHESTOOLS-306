@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_HARPSIN2" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_C5_mf1.wav"
+          Root="72" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="2" Pan="40" Normalized="1" Pitch="0" SampleStart="5866"
+          SampleEnd="309274" SampleStartMod="73069" LoopStart="0" LoopEnd="309274"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="311296" SampleRate="44100"
+          Duplicate="1" NormalizedPeak="7.209681"/>
+</samplemap>

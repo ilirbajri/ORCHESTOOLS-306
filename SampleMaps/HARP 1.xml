@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HARP1" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="0" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A4_mf1.wav"
+          Root="69" HiKey="70" LoKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="797"
+          SampleEnd="535893" SampleStartMod="33776" LoopStart="0" LoopEnd="535893"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="0" MonolithLength="536576"
+          SampleRate="44100" NormalizedPeak="6.0780931"/>
+  <sample ID="1" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A6_mf1.wav"
+          Root="93" HiKey="127" LoKey="86" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1674"
+          SampleEnd="159206" SampleStartMod="12118" LoopStart="0" LoopEnd="159206"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="536576" MonolithLength="159744"
+          SampleRate="44100" NormalizedPeak="17.692764"/>
+  <sample ID="2" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_B1_mf1.wav"
+          Root="35" HiKey="38" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-6" Pan="0" Normalized="1" Pitch="0" SampleStart="1511"
+          SampleEnd="570994" SampleStartMod="188404" LoopStart="0" LoopEnd="570994"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="696320" MonolithLength="573440"
+          SampleRate="44100" NormalizedPeak="103.69304"/>
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_B3_mf1.wav"
+          Root="59" HiKey="61" LoKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-3" Pan="0" Normalized="1" Pitch="0" SampleStart="1474"
+          SampleEnd="495271" SampleStartMod="73251" LoopStart="0" LoopEnd="495271"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="1269760" MonolithLength="495616"
+          SampleRate="44100" NormalizedPeak="16.582489"/>
+  <sample ID="4" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_B5_mf1.wav"
+          Root="83" HiKey="127" LoKey="0" LoVel="80" HiVel="127" RRGroup="1"
+          Volume="-8" Pan="0" Normalized="1" Pitch="0" SampleStart="902"
+          SampleEnd="194753" SampleStartMod="22153" LoopStart="0" LoopEnd="194753"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="47" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="1765376" MonolithLength="196608"
+          SampleRate="44100" NormalizedPeak="18.408426"/>
+  <sample ID="5" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_C5_mf1.wav"
+          Root="72" HiKey="85" LoKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="972"
+          SampleEnd="309274" SampleStartMod="36736" LoopStart="0" LoopEnd="309274"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="1961984" MonolithLength="311296"
+          SampleRate="44100" NormalizedPeak="7.2094612"/>
+  <sample ID="6" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_D2_mf1.wav"
+          Root="38" HiKey="42" LoKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="0" Pan="0" Normalized="1" Pitch="0" SampleStart="1872"
+          SampleEnd="435268" SampleStartMod="129157" LoopStart="0" LoopEnd="435268"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="2273280" MonolithLength="438272"
+          SampleRate="44100" NormalizedPeak="44.580952"/>
+  <sample ID="7" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_D4_mf1.wav"
+          Root="62" HiKey="64" LoKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="1112"
+          SampleEnd="480411" SampleStartMod="53698" LoopStart="0" LoopEnd="480411"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="2711552" MonolithLength="483328"
+          SampleRate="44100" NormalizedPeak="10.583656"/>
+  <sample ID="8" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\KSHarp_A2_mf1.wav"
+          Root="45" HiKey="51" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-2" Pan="0" Normalized="1" Pitch="0" SampleStart="1411"
+          SampleEnd="501906" SampleStartMod="91429" LoopStart="0" LoopEnd="501906"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" Duplicate="1" MonolithOffset="3194880" MonolithLength="503808"
+          SampleRate="44100" NormalizedPeak="26.510517"/>
+</samplemap>

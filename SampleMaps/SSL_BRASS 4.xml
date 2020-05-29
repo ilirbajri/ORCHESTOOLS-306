@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="SSL_BRASS4" SaveMode="2" RRGroupAmount="1" MicPositions=";">
+  <sample ID="3" FileName="C:\1 Audio\5 samples\01 for stank\256OrchestralSamples\7TbnEns_stac_F3_v3_rr2_Sum.wav"
+          Root="77" HiKey="127" LoKey="0" LoVel="0" HiVel="127" RRGroup="1"
+          Volume="-1" Pan="0" Normalized="1" Pitch="0" SampleStart="1710"
+          SampleEnd="88493" SampleStartMod="10149" LoopStart="0" LoopEnd="88493"
+          LoopXFade="0" LoopEnabled="0" LowerVelocityXFade="0" UpperVelocityXFade="0"
+          SampleState="0" MonolithOffset="0" MonolithLength="90112" SampleRate="44100"
+          Duplicate="0" NormalizedPeak="3.2440352"/>
+</samplemap>
