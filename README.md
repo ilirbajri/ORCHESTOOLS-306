@@ -9,3 +9,9 @@ Join the forum for discussions, requests, proposals, advices and stuff - http://
 Use them for good. 
 
 Make music & Love!
+
+_________________________________________________
+
+Hise is released under GPLv3 open source license.
+ORCHESTOOLS | 306  is a free/GPLv3 open source licensed public domain instrument. 
+VSCO 2 CE samples are released under Creative commons 0 public domain licence.
