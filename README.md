@@ -6,6 +6,8 @@ ORCHESTOOLS | 306 is a rompler virtual instrument built using HISE (http://hise.
 Visit http://musictop69.wixsite.com/orchestools for more info and download compiled plugins and standalone versions. 
 Join the forum for discussions, requests, proposals, advices and stuff - http://musictop69.wixsite.com/orchestools/forum
 
+Sound demos: https://www.youtube.com/watch?v=sufn-6_TrvI & https://www.youtube.com/watch?v=vUbbEL4KhnQ
+
 Use them for good. 
 
 Make music & Love!
